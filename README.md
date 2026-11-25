@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ammuhammadtalha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ammuhammadtalha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=am-muhammad-talha&style=for-the-badge&color=36BCF7&label=Profile+Views" alt="Profile views"/>
 </p>
 
 ---
@@ -85,22 +84,6 @@ public class SoftwareEngineer
 ### 🧰 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma&perline=10" alt="Tools"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=am-muhammad-talha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=am-muhammad-talha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=am-muhammad-talha&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
